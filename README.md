@@ -452,7 +452,7 @@ Architected and designed a fully responsive personal portfolio showcasing web de
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thevinnnzzz&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thevinnnzzz&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4&)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

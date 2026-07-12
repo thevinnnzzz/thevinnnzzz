@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lyceumvault.netlify.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://lyceumvault.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vincent--delacruz.netlify.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://vincent-delacruz.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vincent--dela--cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-dela-cruz-028b0a408)
 [![Gmail](https://img.shields.io/badge/Gmail-delacruzvincent085%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:delacruzvincent085@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-thevinnnzzz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thevinnnzzz)
@@ -520,7 +520,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-delacruzvincent085%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:delacruzvincent085@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-dela-cruz-028b0a408)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thevinnnzzz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://lyceumvault.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://vincent-delacruz.netlify.app)
 
 </div>
 
